@@ -1,1 +1,5 @@
-# devops-aula03
+# Ferramentas de controlde de versão:
+* Mercurial
+* GitHub
+* Subversion
+* CVS
